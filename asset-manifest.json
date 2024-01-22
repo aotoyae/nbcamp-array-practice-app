@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nbcamp-array-practice-app/static/css/main.f855e6bc.css",
+    "main.js": "/nbcamp-array-practice-app/static/js/main.972b6794.js",
+    "static/js/787.be9720f8.chunk.js": "/nbcamp-array-practice-app/static/js/787.be9720f8.chunk.js",
+    "index.html": "/nbcamp-array-practice-app/index.html",
+    "main.f855e6bc.css.map": "/nbcamp-array-practice-app/static/css/main.f855e6bc.css.map",
+    "main.972b6794.js.map": "/nbcamp-array-practice-app/static/js/main.972b6794.js.map",
+    "787.be9720f8.chunk.js.map": "/nbcamp-array-practice-app/static/js/787.be9720f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.972b6794.js"
+  ]
+}
